@@ -1,0 +1,16 @@
+.svg{
+  width: 200px;
+  height: 290px;
+  cursor: pointer;
+}
+.wrap{
+  position: relative;
+}
+.title{
+  position: absolute;
+  top:50%;
+  left:50%;
+  transform: translate(-50%,-50%);
+  color: #054c86;
+  cursor: pointer;
+}
